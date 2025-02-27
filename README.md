@@ -3,7 +3,7 @@
 
 - 🌎 I’m from Kurnool,Andhra Pradesh
 
-- 🌱 I’m currently learning **WebDevelopment and Computer Vision**
+- 🌱 I’m currently working on **WebDevelopment and Computer Vision**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Praneet30](https://github.com/Praneet30)
 
